@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Theodor Alexander Håkansson Heiselberg</Authors>
+    <Company />
+    <Copyright>MIT</Copyright>
+    <Description>DI Friendly implementation of the options pattern</Description>
   </PropertyGroup>
 
 </Project>
