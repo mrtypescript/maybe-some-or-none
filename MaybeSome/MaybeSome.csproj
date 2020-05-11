@@ -6,6 +6,11 @@
     <Company />
     <Copyright>MIT</Copyright>
     <Description>DI Friendly implementation of the options pattern</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>MaybeSomeOrMaybeNone</PackageId>
+    <RepositoryUrl>https://github.com/mrtypescript/maybe-some-or-none</RepositoryUrl>
+    <PackageReleaseNotes>Examples of usage found in the test-project</PackageReleaseNotes>
+    <PackageTags>Options, Monad, Maybe, Some, None</PackageTags>
   </PropertyGroup>
 
 </Project>

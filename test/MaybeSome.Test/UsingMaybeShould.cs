@@ -3,7 +3,7 @@ using Xunit;
 
 namespace MaybeSome.Test
 {
-	public class UnitTest1
+	public class UsingMaybeShould
 	{
 		class Person { }
 
